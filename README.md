@@ -19,7 +19,7 @@ Hello this is my profile.
 
 🛠️ **DevOps Tools**  
 - Git & GitHub 🔧  
-- Docker (Started Learning 🐳)  
+- Docker (today Started Learning 🐳)  
 
 ---
 
