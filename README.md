@@ -2,8 +2,12 @@
 # 👋 Hi, I'm Yashu  
 🎓 B.Sc. in Computer Science | 💻 Aspiring DevOps Engineer | ☁️ Cloud Enthusiast  
 
+----
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sam-lasure2004&theme=dark&hide_border=true)
+-----
+![followers](https://img.shields.io/github/followers/sam-lasure2004?style=social)
+![stars](https://img.shields.io/github/stars/sam-lasure2004?style=social)
 
 ---
 
