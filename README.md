@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Samartha   
-🎓 B.Sc. in Computer Science | 💻 Aspiring DevOps Engineer | ☁️ Cloud Enthusiast  
+🎓 B.Sc. in Computer Science | 💻 Aspiring DevOps Engineer | <!-- ☁️ Cloud Enthusiast--> Django Framework Internship |   
 
 ----
 
