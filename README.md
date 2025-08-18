@@ -13,7 +13,7 @@
 ------
 [![Yashu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sam-lasure2004&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -----
-<img src="https://raw.githubusercontent.com/your-username/your-username/main/coding.gif" width="400" />
+<img src="https://raw.githubusercontent.com/sam-lasure2004/sam-lasure2004/main/coding.gif" width="400" />
 -----
 
 ### 👨‍💻 About Me  
