@@ -46,16 +46,26 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 My GitHub Journey  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam-lasure2004&show_icons=true&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com?user=sam-lasure2004&theme=radical&hide_border=false" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-lasure2004&layout=compact&theme=tokyonight" height="150" />
-</p>
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/sam-lasure2004">
+    <img src="https://github-readme-stats.vercel.app/api?username=sam-lasure2004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" height="180" />
+  </a>
+
+  <!-- Streak Card -->
+  <a href="https://github.com/sam-lasure2004">
+    <img src="https://streak-stats.demolab.com?user=sam-lasure2004&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/sam-lasure2004">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-lasure2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
+  </a>
+
+</div>
 
 ---
 
