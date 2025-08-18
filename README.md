@@ -8,8 +8,9 @@
 -----
 ![followers](https://img.shields.io/github/followers/sam-lasure2004?style=social)
 ![stars](https://img.shields.io/github/stars/sam-lasure2004?style=social)
-
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Hi+👋+I'm+Yashu;Frontend+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
+------
 
 ### 👨‍💻 About Me  
 
