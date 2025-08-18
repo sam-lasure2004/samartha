@@ -4,10 +4,8 @@
 
 ----
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sam-lasure2004&theme=dark&hide_border=true)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=sam-lasure2004&theme=dark&hide_border=true)-->
 -----
-![followers](https://img.shields.io/github/followers/sam-lasure2004?style=social)
-![stars](https://img.shields.io/github/stars/sam-lasure2004?style=social)
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Hi+👋+I'm+Yashu;Frontend+Developer;Tech+Enthusiast)](https://git.io/typing-svg)-->
 
@@ -87,7 +85,9 @@
 </p>
 
 ---
-
+![followers](https://img.shields.io/github/followers/sam-lasure2004?style=social)
+![stars](https://img.shields.io/github/stars/sam-lasure2004?style=social)
+---
 ## 👀 Visitor Count  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sam-lasure2004&color=blue&style=flat-square" />
