@@ -32,17 +32,6 @@ Hi, I'm **Yashu**, a passionate **DevOps Learner** with a love for automation, c
   <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
-</p>
-
-
-
-
-
 ---
 
 ## 📈 GitHub Stats  
