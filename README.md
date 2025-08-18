@@ -21,6 +21,14 @@ Hi, I'm **Yashu**, a passionate **DevOps Learner** with a love for automation, c
   <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github,vscode" />
 </p>
 
+## 🛠️ Tools & Technologies  
+
+- 🐧 **OS & Cloud:** Linux, AWS  
+- 🐳 **Containers:** Docker, Kubernetes  
+- ⚙️ **CI/CD:** Jenkins, Terraform, Ansible  
+- 🔧 **Version Control:** Git, GitHub  
+- 💻 **IDE:** VS Code  
+
 ---
 
 ## 📈 GitHub Stats  
