@@ -69,38 +69,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🎮 Project Super Mario (Game Dev Exploration)  
-**Tech:** HTML5, CSS3, JavaScript  
-- Classic 2D platformer gameplay  
-- Player controls, obstacles, scoring system  
-- Dynamic animations  
-
----
-
-### 🛡️ Project InsureMe (Insurance Platform)  
-**Tech:** React.js, Node.js, Express.js, MongoDB  
-- Policy creation & management  
-- User authentication (role-based)  
-- Claims tracking with analytics  
-
----
-
-### 📦 Angular AWS App (Serverless WebApp)  
-**Tech:** Angular, AWS S3, CloudFront, Route 53  
-- Scalable frontend on AWS S3  
-- CDN integration via CloudFront  
-- Secure domain with Route 53  
-
----
-
-### 📚 Student Management System  
-**Tech:** Java Spring Boot, Angular, MySQL  
-- CRUD for student records  
-- Role-based access for admin & students  
-- Responsive design  
-
----
-
+----
 ## ✨ Quote of the Day  
 <p align="center">
   <em>“The best way to predict the future is to create it.”</em>  
