@@ -49,7 +49,7 @@
 ## 🌱 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sam-lasure2004/sam-lasure2004/output/snake.svg" alt="snake animation" />
+  <img src="https://github.com/sam-lasure2004/sam-lasure2004/blob/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
