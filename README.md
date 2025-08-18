@@ -27,6 +27,10 @@ Hello this is my profile.
 ![Yashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-lasure2004&show_icons=true&theme=radical)
 
 
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=sam-lasure2004&theme=radical&hide_border=false)
+
+
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-lasure2004&layout=compact&theme=tokyonight)
 
