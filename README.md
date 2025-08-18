@@ -24,9 +24,6 @@ Hi, I'm **Yashu**, a passionate **DevOps Learner** with a love for automation, c
 
 ## 🛠️ Tools & Technologies  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=⚡+My+Tech+Stack;🐧+Linux+%7C+☁️+AWS+%7C+🐳+Docker;⚙️+Jenkins+%7C+K8s+%7C+Terraform;🔧+Git+%7C+GitHub+%7C+VS+Code" alt="Typing Animation" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github,vscode" />
