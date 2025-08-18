@@ -24,7 +24,8 @@ Hello this is my profile.
 ---
 
 ## 🌟 GitHub Stats
-![Yashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Yashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-lasure2004&show_icons=true&theme=radical)
+
 
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
