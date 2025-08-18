@@ -5,7 +5,6 @@
 ----
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=sam-lasure2004&theme=dark&hide_border=true)-->
------
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Hi+👋+I'm+Yashu;Frontend+Developer;Tech+Enthusiast)](https://git.io/typing-svg)-->
 
@@ -13,7 +12,7 @@
 [![Yashu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sam-lasure2004&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <!-- <img src="https://raw.githubusercontent.com/sam-lasure2004/sam-lasure2004/main/coding.gif" width="400" />-->
------
+
 
 ### 👨‍💻 About Me  
 
