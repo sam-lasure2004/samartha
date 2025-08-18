@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github,vscode" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i= django,linux,aws,docker,git,github,vscode" /></a>
 </p>
 
 <p align="center">
