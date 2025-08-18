@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Yashu  
+# 👋 Hi, I'm Samartha   
 🎓 B.Sc. in Computer Science | 💻 Aspiring DevOps Engineer | ☁️ Cloud Enthusiast  
 
 ----
