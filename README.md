@@ -21,6 +21,28 @@ Hi, I'm **Yashu**, a passionate **DevOps Learner** with a love for automation, c
   <img src="https://skillicons.dev/icons?i=django,linux,aws,docker,git,github,vscode" />
 </p>
 
+
+## 🛠️ Tools & Technologies  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=⚡+My+Tech+Stack;🐧+Linux+%7C+☁️+AWS+%7C+🐳+Docker;⚙️+Jenkins+%7C+K8s+%7C+Terraform;🔧+Git+%7C+GitHub+%7C+VS+Code" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
+</p>
+
+
+
+
+
 ---
 
 ## 📈 GitHub Stats  
