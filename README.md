@@ -17,13 +17,9 @@ Hi, I'm **Yashu**, a passionate **DevOps Learner** with a love for automation, c
 
 ## 🛠️ Tools & Technologies  
 
-| Category        | Tools |
-|-----------------|------------------------------------------------|
-| **OS & Cloud**  | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) |
-| **Containers**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
-| **CI/CD**       | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white) |
-| **Versioning**  | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
-| **IDE**         | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github,vscode" />
+</p>
 
 ---
 
