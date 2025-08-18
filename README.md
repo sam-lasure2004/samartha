@@ -28,7 +28,8 @@ Hello this is my profile.
 
 
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-lasure2004&layout=compact&theme=tokyonight)
+
 
 ---
 
