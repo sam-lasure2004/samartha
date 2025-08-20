@@ -13,8 +13,6 @@
 
 <!-- <img src="https://raw.githubusercontent.com/sam-lasure2004/sam-lasure2004/main/coding.gif" width="400" />-->
 
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -22,6 +20,7 @@
   <a href="https://github.com/sam-lasure2004"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 </p>
 
+---
 
 ### 👨‍💻 About Me  
 
